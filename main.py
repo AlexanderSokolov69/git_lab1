@@ -1,2 +1,1 @@
-print('hello world')
-print('hello world2')
+#-*- coding: utf-8 -*-
