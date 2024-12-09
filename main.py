@@ -1,5 +1,5 @@
 print('hello, world!')
-print('hello, peoples!')
+print('hello, peoples! ')
 
 name = input()
 
