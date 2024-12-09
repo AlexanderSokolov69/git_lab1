@@ -5,3 +5,7 @@ print('hello, peoples!')
 
 print('привет, народ!')
 print('привет, люди!')
+
+
+name = input()
+
